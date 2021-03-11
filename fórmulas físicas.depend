@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615472088 source:c:\users\bie_animation\onedrive\desktop\importants\eep\algoritmos e lógica de programação\curso de c\programas fora de aula\fórmulas físicas\main.c
+	<stdio.h>
+	<stdint.h>
+	<math.h>
+
